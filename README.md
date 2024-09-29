@@ -1,7 +1,8 @@
 # <a href="https://en.wikipedia.org/wiki/Binary_search">Binary_Search<a>
 # 🔍 Binary Search Algorithm in Rust
 
-Este repositório contém a implementação de um algoritmo de busca binária utilizando Rust. A busca binária é um método eficiente para encontrar um elemento específico dentro de uma lista ordenada.
+Este repositório contém a implementação de um algoritmo de busca binária utilizando Rust. <br> 
+A busca binária é um método eficiente para encontrar um elemento específico dentro de uma lista ordenada.
 
 ## 📋 Descrição
 
